@@ -1,0 +1,1 @@
+{"name": "test_invalid_user_login", "status": "passed", "start": 1773428211475, "stop": 1773428296814, "uuid": "cc09b56e-9bef-4e3a-9316-c2f8a3308c64", "testCaseId": "9668de7afec4aea2e85f39c25138877c", "fullName": "tests.test_login#test_invalid_user_login", "titlePath": ["tests", "test_login.py"]}

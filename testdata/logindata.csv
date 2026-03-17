@@ -1,0 +1,5 @@
+testName,email,password,expected
+Valid login,nrbc.qa@gmail.com,Ur@12345678,success
+Invalid login,abcxy1212z@x22yz.com,abcxyx,failure
+Invalid login,abcxy1266512z@x22yz.com,wfvsdfvjsd,failure
+Invalid login,abcxy1254645612z@x22yz.com,xcvnv,failure

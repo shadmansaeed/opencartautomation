@@ -1,0 +1,28 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","9199","test_user_registration","tests","2026-04-02","passed","2026-04-02","","test_user_registration","",""
+"","2909","test_login_data_driven[Invalid login-abcxyz@xyz.com-abcxyx-failure]","tests","2026-03-31","passed","2026-03-31","","test_login_data_driven","",""
+"","2603","test_login_data_driven[Invalid login-abcxy1266512z@x22yz.com-wfvsdfvjsd-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"
+    Automated Test Case: Verify user can search and add a product to the cart.
+    ","4565","test_add_product_to_cart","tests","2026-03-31","passed","2026-03-31","","test_add_product_to_cart","",""
+"
+    End-to-End Test Flow:
+    1. Register a new user.
+    2. Logout.
+    3. Login with the registered credentials.
+    4. Search and add a product to cart.
+    5. Verify cart contents.
+    ","8386","test_end_to_end_flow","tests","2026-03-31","passed","2026-03-31","","test_end_to_end","",""
+"","2819","test_login_data_driven[Valid login-nrbc.qa@gmail.com-Ur@12345678-success]","tests","2026-03-31","passed","2026-03-31","","test_login_data_driven","",""
+"","2657","test_login_data_driven[Invalid login-abcxsfsdyz@xyzdf.com-abcxyx-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"","2735","test_invalid_user_login","tests","2026-03-31","passed","2026-03-31","","test_login","",""
+"","2836","test_login_data_driven[Invalid login-abcxy1254645612z@x22yz.com-xcvnv-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"
+    Automated Test Case: Verify that a logged-in user can successfully log out of the application.
+    ","5082","test_user_logout","tests","2026-03-31","passed","2026-03-31","","test_user_logout","",""
+"","2709","test_login_data_driven[Invalid login-sjdhfsdj@gmail.com-usgusf-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"","2957","test_valid_user_login","tests","2026-04-02","passed","2026-04-02","","test_login","",""
+"","2782","test_login_data_driven[Invalid login-abcxy1212z@x22yz.com-abcxyx-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"","5618","test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]","tests","2026-03-14","failed","2026-03-14","","test_login_data_driven","",""
+"","2713","test_login_data_driven[Invalid login-HJDFFD@GMAIL.COM-Ur@12345678-failure]","tests","2026-03-14","passed","2026-03-14","","test_login_data_driven","",""
+"","3988","test_product_search","tests","2026-04-02","passed","2026-04-02","","test_product_search","",""
